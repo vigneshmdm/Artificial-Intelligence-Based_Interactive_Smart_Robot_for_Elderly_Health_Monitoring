@@ -43,42 +43,42 @@ Authors: Vasudevan. B, Vignesh Karuppasamy. D. M, Uppuliappan. M
 
 ## System Architecture
 
-![Block Diagram](images/block_diagram.png)
+![Block Diagram](images/Block Diagram.png)
 
 ---
 
 ## IoT Web Dashboard
 
 **Health Data Log Interface**  
-![IoT Web Logs](images/ui_data_log.png)
+![IoT Data Log](images/User Interface of the IoT Webpage (data).png)
 
 **Device Control Panel**  
-![IoT Web Switches](images/ui_switches.png)
+![IoT Switches](images/User Interface of the IoT Webpage (switches).png)
 
 ---
 
 ## Robot Prototype
 
 **Top View**  
-![Prototype Top](images/prototype_top.jpg)
+![Prototype Top](images/Prototype Design (top view).jpg)
 
 **Side View**  
-![Prototype Side](images/prototype_side.jpg)
+![Prototype Side](images/Prototype Design (side view).jpg)
 
 ---
 
-## Recurrent Neural Network Diagram
+## Neural Network Diagram
 
-![RNN Diagram](images/rnn_diagram.png)
+![RNN Model](images/Recurrent Neural Network.png)
 
 ---
 
 ## SMS Alert Notifications
 
-![GSM Alert](images/gsm_alert.png)
+![GSM Alert](images/Screenshot of GSM Alert Message.png)
 
 ---
 
 ## Bluetooth Voice Command Interface
 
-![Voice App](images/voice_app.jpg)
+![Voice App](images/User Interface of the Smartphone Application.jpg)
