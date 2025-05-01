@@ -38,3 +38,47 @@ Presented at: *IEEE International Conference on Advances in Computing, Communica
 [Read the full paper on IEEE Xplore](https://ieeexplore.ieee.org/document/10201135)
 
 Authors: Vasudevan. B, Vignesh Karuppasamy. D. M, Uppuliappan. M
+
+---
+
+## System Architecture
+
+![Block Diagram](images/block_diagram.png)
+
+---
+
+## IoT Web Dashboard
+
+**Health Data Log Interface**  
+![IoT Web Logs](images/ui_data_log.png)
+
+**Device Control Panel**  
+![IoT Web Switches](images/ui_switches.png)
+
+---
+
+## Robot Prototype
+
+**Top View**  
+![Prototype Top](images/prototype_top.jpg)
+
+**Side View**  
+![Prototype Side](images/prototype_side.jpg)
+
+---
+
+## Recurrent Neural Network Diagram
+
+![RNN Diagram](images/rnn_diagram.png)
+
+---
+
+## SMS Alert Notifications
+
+![GSM Alert](images/gsm_alert.png)
+
+---
+
+## Bluetooth Voice Command Interface
+
+![Voice App](images/voice_app.jpg)
