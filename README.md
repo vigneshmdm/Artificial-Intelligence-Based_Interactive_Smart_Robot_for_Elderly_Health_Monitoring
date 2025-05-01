@@ -29,10 +29,12 @@ The solution integrates Embedded C (Arduino) for sensor and communication contro
 - Recurrent Neural Network (RNN) using Python and TensorFlow
 - IoT cloud integration for remote health tracking
 
-## Acknowledgment
+## Acknowledgement
 
-This work is based on the research paper:
+This project is based on the following peer-reviewed paper:
 
 **“Artificial Intelligence (AI) Based Interactive Smart Robot for Elderly People Health Monitoring System”**  
 Presented at: *IEEE International Conference on Advances in Computing, Communication and Applied Informatics (ACCAI), 2023*  
+[Read the full paper on IEEE Xplore](https://ieeexplore.ieee.org/document/10201135)
+
 Authors: Vasudevan. B, Vignesh Karuppasamy. D. M, Uppuliappan. M
