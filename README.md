@@ -40,9 +40,11 @@ The solution integrates Embedded C (Arduino) for sensor and communication contro
 ## IoT Web Dashboard
 
 **Health Data Log Interface**
+
 <img src="images/User_Interface_of_the_IoT_Webpage_data.png" width="650"/>
 
 **Device Control Panel**  
+
 <img src="images/User_Interface_of_the_IoT_Webpage_switches.png" width="650"/>
 
 ## Recurrent Neural Network
