@@ -55,13 +55,13 @@ The solution integrates Embedded C (Arduino) for sensor and communication contro
 
 ## SMS Alert Notifications
 
-<img src="images/Screenshot_of_GSM_Alert_Message.png" width="500"/>
+<img src="images/Screenshot_of_GSM_Alert_Message.png" width="300"/>
 
 ---
 
 ## Bluetooth Voice Command Interface
 
-<img src="images/User_Interface_of_the_Smartphone_Application.jpg" width="500"/>
+<img src="images/User_Interface_of_the_Smartphone_Application.jpg" width="300"/>
 
 ---
 
