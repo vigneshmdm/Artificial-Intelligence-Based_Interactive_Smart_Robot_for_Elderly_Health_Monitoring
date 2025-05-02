@@ -40,26 +40,26 @@ The solution integrates Embedded C (Arduino) for sensor and communication contro
 ## IoT Web Dashboard
 
 **Health Data Log Interface**
-<img src="images/images/User_Interface_of_the_IoT_Webpage_data.png" width="650"/>
+<img src="images/User_Interface_of_the_IoT_Webpage_data.png" width="650"/>
 
 **Device Control Panel**  
-<img src="images/images/User_Interface_of_the_IoT_Webpage_switches.png" width="650"/>
+<img src="images/User_Interface_of_the_IoT_Webpage_switches.png" width="650"/>
 
 ## Recurrent Neural Network
 
-<img src="images/images/Recurrent_Neural_Network.png" width="650"/>
+<img src="images/Recurrent_Neural_Network.png" width="650"/>
 
 ---
 
 ## SMS Alert Notifications
 
-<img src="images/images/Screenshot_of_GSM_Alert_Message.png" width="500"/>
+<img src="images/Screenshot_of_GSM_Alert_Message.png" width="500"/>
 
 ---
 
 ## Bluetooth Voice Command Interface
 
-<img src="images/images/User_Interface_of_the_Smartphone_Application.jpg" width="500"/>
+<img src="images/User_Interface_of_the_Smartphone_Application.jpg" width="500"/>
 
 ---
 
