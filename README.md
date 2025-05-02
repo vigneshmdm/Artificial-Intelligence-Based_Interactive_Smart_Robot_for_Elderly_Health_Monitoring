@@ -12,7 +12,7 @@ The solution integrates Embedded C (Arduino) for sensor and communication contro
 
 ## Files Included
 
-- `esp8266_rnn_monitor.ino`  
+- `Nodemcu-RNN.ino`  
   Arduino sketch that handles sensor data acquisition, LCD display, HTTP communication, and trigger mechanism for AI prediction.
 
 - `rnn_timeseries.py`  
@@ -39,27 +39,27 @@ The solution integrates Embedded C (Arduino) for sensor and communication contro
 
 ## IoT Web Dashboard
 
-**Health Data Log Interface**  
-![IoT Data Log](images/User_Interface_of_the_IoT_Webpage_data.png)
+**Health Data Log Interface**
+<img src="images/images/User_Interface_of_the_IoT_Webpage_data.png" width="650"/>
 
 **Device Control Panel**  
-![IoT Switches](images/User_Interface_of_the_IoT_Webpage_switches.png)
+<img src="images/images/User_Interface_of_the_IoT_Webpage_switches.png" width="650"/>
 
 ## Recurrent Neural Network
 
-![RNN Model](images/Recurrent_Neural_Network.png)
+<img src="images/images/Recurrent_Neural_Network.png" width="650"/>
 
 ---
 
 ## SMS Alert Notifications
 
-![GSM Alert](images/Screenshot_of_GSM_Alert_Message.png)
+<img src="images/images/Screenshot_of_GSM_Alert_Message.png" width="500"/>
 
 ---
 
 ## Bluetooth Voice Command Interface
 
-![Voice App](images/User_Interface_of_the_Smartphone_Application.jpg)
+<img src="images/images/User_Interface_of_the_Smartphone_Application.jpg" width="500"/>
 
 ---
 
