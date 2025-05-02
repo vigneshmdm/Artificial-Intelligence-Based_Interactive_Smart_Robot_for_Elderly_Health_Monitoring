@@ -33,7 +33,7 @@ The solution integrates Embedded C (Arduino) for sensor and communication contro
 
 ## System Architecture
 
-<img src="images/Block_Diagram.png" width="650"/>
+<img src="images/Block_Diagram.png" width="600"/>
 
 ---
 
@@ -41,15 +41,15 @@ The solution integrates Embedded C (Arduino) for sensor and communication contro
 
 **Health Data Log Interface**
 
-<img src="images/User_Interface_of_the_IoT_Webpage_data.png" width="650"/>
+<img src="images/User_Interface_of_the_IoT_Webpage_data.png" width="600"/>
 
 **Device Control Panel**  
 
-<img src="images/User_Interface_of_the_IoT_Webpage_switches.png" width="650"/>
+<img src="images/User_Interface_of_the_IoT_Webpage_switches.png" width="600"/>
 
 ## Recurrent Neural Network
 
-<img src="images/Recurrent_Neural_Network.png" width="600"/>
+<img src="images/Recurrent_Neural_Network.png" width="550"/>
 
 ---
 
