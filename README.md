@@ -49,19 +49,19 @@ The solution integrates Embedded C (Arduino) for sensor and communication contro
 
 ## Recurrent Neural Network
 
-<img src="images/Recurrent_Neural_Network.png" width="650"/>
+<img src="images/Recurrent_Neural_Network.png" width="600"/>
 
 ---
 
 ## SMS Alert Notifications
 
-<img src="images/Screenshot_of_GSM_Alert_Message.png" width="300"/>
+<img src="images/Screenshot_of_GSM_Alert_Message.png" width="200"/>
 
 ---
 
 ## Bluetooth Voice Command Interface
 
-<img src="images/User_Interface_of_the_Smartphone_Application.jpg" width="300"/>
+<img src="images/User_Interface_of_the_Smartphone_Application.jpg" width="200"/>
 
 ---
 
