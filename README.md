@@ -49,7 +49,7 @@ The solution integrates Embedded C (Arduino) for sensor and communication contro
 
 ## Recurrent Neural Network
 
-<img src="images/Recurrent_Neural_Network.png" width="550"/>
+<img src="images/Recurrent_Neural_Network.png" width="500"/>
 
 ---
 
