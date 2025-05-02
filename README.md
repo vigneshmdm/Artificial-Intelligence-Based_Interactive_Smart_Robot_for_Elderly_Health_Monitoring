@@ -33,7 +33,7 @@ The solution integrates Embedded C (Arduino) for sensor and communication contro
 
 ## System Architecture
 
-![Block Diagram](images/Block_Diagram.png)
+<img src="images/Block_Diagram.png" width="500"/>
 
 ---
 
